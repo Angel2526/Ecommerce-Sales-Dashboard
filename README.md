@@ -1,4 +1,6 @@
-# Ecommerce Sales Dashboard - Power BI
+# Ecommerce Sales Dashboard - Power BI ![image](https://github.com/user-attachments/assets/5ebb79d4-21fb-4980-8858-3c1e85dd8e10)
+
+
 
 ## Overview
 
@@ -7,7 +9,11 @@ This Power BI dashboard provides a comprehensive analysis of ecommerce sales, of
 ## Learnings
 
     ⇢ Created interactive dashboard to track and analyze online sales data.
+    
     ⇢ Used complex parameters to drill down in worksheet and customized using filters and slicers.
+    
     ⇢ Created connections, joined new tables, and performed calculations to manipulate data and enable user-driven parameters for visualizations.
+    
     ⇢ Used various customized visualizations: bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc.
+    
 ![image](https://github.com/user-attachments/assets/7d0be442-c97b-4405-a231-bd1b88c4fd67)
