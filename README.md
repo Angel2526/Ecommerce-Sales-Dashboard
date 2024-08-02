@@ -1,4 +1,5 @@
-# Ecommerce Sales Dashboard - Power BI ![image](https://github.com/user-attachments/assets/5ebb79d4-21fb-4980-8858-3c1e85dd8e10)
+# Ecommerce Sales Dashboard | Power BI 
+
 
 
 
