@@ -5,7 +5,9 @@
 
 ## Overview
 
- _ This Power BI dashboard provides a comprehensive analysis of ecommerce sales 📊, offering insights into sales performance 📈, customer behavior 🛒, and product trends 🛍️. The interactive visualizations enable stakeholders to make data-driven decisions to optimize sales strategies and improve customer satisfaction 🎯. _
+    ⇢ This Power BI dashboard provides a comprehensive analysis of ecommerce sales 📊, offering insights into sales performance 📈, customer behavior 🛒, and product trends 🛍️. 
+    
+    ⇢  The interactive visualizations enable stakeholders to make data-driven decisions to optimize sales strategies and improve customer satisfaction 🎯. 
 
 ## Learnings
 
