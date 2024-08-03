@@ -8,11 +8,17 @@ This project is an Ecommerce sales📊 dashboard developed using Power BI. The d
 ## Features
 
 Total Sales and Profit: Displays the total sales amount, total profit, and average order value.
+
 Sales by State: Line chart showing sales distribution across different states.
+
 Sales by Category: Donut chart illustrating the distribution of sales by category.
+
 Payment Methods: Pie chart indicating the proportion of sales made through different payment methods.
+
 Customer Insights: Bar chart showing sales amounts by customer names.
+
 Profit by Sub-Category: Bar chart representing profit by different sub-categories.
+
 Monthly Profit: Bar chart displaying monthly profit trends.
 
 ## Technologies Used
