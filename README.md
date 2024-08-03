@@ -1,13 +1,25 @@
 # Ecommerce Sales Dashboard | Power BI 📊
 
+## Description
+
+This project is an Ecommerce sales📊 dashboard developed using Power BI. The dashboard provides visual insights into key metrics such as sales📈 amount, profit, average order value (AOV), and quantity sold. It includes various visualizations to help analyze sales performance by category, payment methods, customer names, and over time.
 
 
+## Features
 
-## Overview
+#### Total Sales and Profit: Displays the total sales amount, total profit, and average order value.
+#### Sales by State: Line chart showing sales distribution across different states.
+#### Sales by Category: Donut chart illustrating the distribution of sales by category.
+#### Payment Methods: Pie chart indicating the proportion of sales made through different payment methods.
+#### Customer Insights: Bar chart showing sales amounts by customer names.
+#### Profit by Sub-Category: Bar chart representing profit by different sub-categories.
+#### Monthly Profit: Bar chart displaying monthly profit trends.
 
-💠This Power BI dashboard provides a comprehensive analysis of ecommerce sales 📊, offering insights into sales performance 📈, customer behavior 🛒, and product trends 🛍️. 
-    
-💠The interactive visualizations enable stakeholders to make data-driven decisions to optimize sales strategies and improve customer satisfaction 🎯. 
+## Technologies Used
+
+💠 Data Visualization: Power BI
+💠 Data Processing: Power Query for data transformation and cleaning.
+💠 Data Source: Details about the data source (e.g., SQL Database, CSV files, Excel sheets)
 
 ## Learnings
 
