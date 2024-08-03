@@ -21,6 +21,14 @@ Profit by Sub-Category: Bar chart representing profit by different sub-categorie
 
 Monthly Profit: Bar chart displaying monthly profit trends.
 
+### Interactive Features:
+
+Interactive filters allowing users to drill down into specific data points.
+
+Hover-over tooltips providing additional details on data points.
+
+Slicers for dynamic data filtering based on various criteria (e.g., date range, category).
+
 ## Technologies Used
 
 💠 Data Visualization: Power BI
